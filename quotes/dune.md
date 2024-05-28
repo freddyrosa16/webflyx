@@ -5,4 +5,7 @@
 * "When Is A Gift Not A Gift?"
 git add quotes/starwars.md quotes/dune.md
 "The spice must flow."
+<<<<<<< HEAD
 "Fear is the mind-killer."
+=======
+>>>>>>> db44c5c (H: Add quote 'The spice must flow.')
